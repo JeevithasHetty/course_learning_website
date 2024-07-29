@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 const Text(
-                  'Welcome to the Course App',
+                  'Welcome to the course learning webiste!!',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 32,
